@@ -1,0 +1,15 @@
+Question 2
+
+Write a Python function count_v() that accepts a string as an argument and returns the total number of occurrences of both lowercase 'v' and uppercase 'V' in the string.
+
+Also:
+
+Take a string as input from the user.
+Display the count of 'v' and 'V'.
+
+QUESTION 3
+
+Write SQL commands to:
+
+Create a database named CBSE24
+Create a table named STUDENT with the following structure:

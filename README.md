@@ -1,2 +1,2 @@
-# All-program-practical-kv-ashoknagar
-# Programs for practical in School 
+# ALL PROGRAM OF 12 th CLASS
+# PYTHON AND SQL Programs 

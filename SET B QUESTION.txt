@@ -1,0 +1,19 @@
+QUESTION 1 
+
+Write a Python program to implement a stack using a list for storing employee records in the form (EmpID, Name).
+
+Perform the following operations:
+
+Create a stack with the following employee records:
+(101, "Kamal")
+(102, "Rajesh")
+(103, "Kush")
+Push a new employee record (104, "Rohan") into the stack.
+Display the updated employee stack.
+
+QUESTION 2 
+
+Question
+
+Write a Python program using pickle module to:
+Create a binary file named students.dat

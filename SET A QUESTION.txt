@@ -1,0 +1,25 @@
+Question 1 (Python File Handling)
+Explanation
+
+This program:
+
+Creates a text file named Study.txt
+Writes two lines into the file
+Reads the file content
+Converts the content into lowercase
+Counts how many times the words "and" and "my" appear
+Displays the count
+
+
+Question 2 (Binary File using Pickle)
+Explanation
+
+This program:
+
+Creates a dictionary containing roll numbers and names
+Stores the dictionary in a binary file using pickle
+Takes a roll number from the user
+Searches the roll number in the file
+Displays the student name if found
+
+
